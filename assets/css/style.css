@@ -1,0 +1,68 @@
+#title {
+	color: #FFFFFF;
+	padding: 10px;
+	margin: 10px;
+	width: 275px;
+	height: 50px;
+}
+
+#instructions {
+	color: #FF00EE;
+	background-color: #FFFFFF;
+	padding: 10px;
+	margin: 10px;
+	width: 400px;
+}
+
+#randomNumber {
+	font-size: 60px;
+	text-align: center;
+	color: #9933FF;
+	background-color: #00FF99;
+	padding: 10px;
+	margin: 10px;
+	width: 200px;
+	height: 200px;
+}
+
+#winsAndLosses {
+	position: relative;
+	bottom: 230px;
+	left: 230px;
+	color: #9933FF;
+	background-color: #00EEFF;
+	padding: 10px;
+	margin: 10px;
+	width: 100px;
+	height: 200px;
+}
+
+#crystalRings {
+	position: relative;
+	bottom: 230px;
+	margin: 10px;
+}
+
+#totalScoreText {
+	position: relative;
+	bottom: 230px;
+	color: #002288;
+	background-color: #FF9999;
+	padding: 10px;
+	margin: 10px;
+	width: 275px;
+	height: 45px;
+}
+
+#totalScoreGenerated {
+	font-size: 60px;
+	text-align: center;
+	position: relative;
+	bottom: 230px;
+	color: #9933FF;
+	background-color: #FF9999;
+	padding: 10px;
+	margin: 10px;
+	width: 275px;
+	height: 200px;
+}
